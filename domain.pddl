@@ -6,6 +6,8 @@
     robot location configuration sensor analysis)
 
 
+
+
   (:predicates
     (at ?r - robot ?l - location)
     (connected ?l1 - location ?l2 - location)

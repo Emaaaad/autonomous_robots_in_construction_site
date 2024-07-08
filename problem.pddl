@@ -8,6 +8,8 @@
     camera lidar thermal - sensor
   )
 
+  
+
   (:init
     (at robot a)
     (connected a b)
